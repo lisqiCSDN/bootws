@@ -24,7 +24,7 @@
         <spring.cloud.version>Finchley.SR1</spring.cloud.version>
         <druid.version>1.1.10</druid.version>
         <lombok.version>1.16.18</lombok.version>
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.11.0</jackson.version>
         <commons.io.version>2.4</commons.io.version>
         <fastjson.version>1.2.47</fastjson.version>
         <gson.version>2.6.2</gson.version>
